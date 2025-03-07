@@ -1,0 +1,16 @@
+# Archivos grandes
+data/MLA_100k.jsonlines
+
+# Python virtual environment
+Lib/
+Scripts/
+etc/
+share/
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints
+venv/
+.env
+Include/
+pyvenv.cfg
